@@ -1,12 +1,16 @@
-
+import MyFirstReact from './first_react'
 
 
 function App() {
   
 
   return (
-   <h1>Chai aur React with Vite | Manjula</h1>
-  )
-}
+    <>
+   <MyFirstReact/>
+   <h1>Start my React</h1>
+   <p>Excellent</p>
+
+   </>)
+
 
 export default App
